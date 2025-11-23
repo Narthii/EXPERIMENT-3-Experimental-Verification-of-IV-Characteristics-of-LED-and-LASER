@@ -57,9 +57,10 @@ LED's have a linear optical output with relation to the forward current over a c
 
 ## 📊 TABULATION
 
-### LED Forward Characteristics
+### LED & Laser Forward Characteristics
+![WhatsApp Image 2025-11-23 at 21 42 05_df24f2b5](https://github.com/user-attachments/assets/be09db3c-bc7c-4125-932c-9e8ba7f4af4f)
 
-![WhatsApp Image 2025-11-17 at 23 02 33_641007a2](https://github.com/user-attachments/assets/0957f21c-b65c-40bf-a889-09fb58cd86c3)
+
 
 ---
 
@@ -71,7 +72,10 @@ LED's have a linear optical output with relation to the forward current over a c
 
 ## GRAPH
 
-![WhatsApp Image 2025-11-17 at 23 02 35_f75b35c2](https://github.com/user-attachments/assets/db5809f5-ad42-493b-b7c0-d34ccb881dcd)
+![WhatsApp Image 2025-11-23 at 21 42 05_0c7d5894](https://github.com/user-attachments/assets/2bb4fb9e-684b-4282-8214-36d2337a3604)
+![WhatsApp Image 2025-11-23 at 21 42 04_014a9e26](https://github.com/user-attachments/assets/a872395f-6d7a-4eb7-8a7c-f6febee84c93)
+
+
 
 ---
 
